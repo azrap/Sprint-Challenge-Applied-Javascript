@@ -30,15 +30,26 @@ Demonstrate your understanding of this week's concepts by answering the followin
 
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your project manager
 
-1. What is the DOM?
+What is the DOM?
 
-2. What is an event?
+>> it is the rendering of the code that the browser parses. DOM will be in html/css while the code itself could be written in any language like Javascript, Python etc. 
 
-3. What is an event listener?
+What is an event?
 
-4. Why would we convert a NodeList into an Array?
+>> Javascript interactions with HMTL are events
 
-5. What is a component?
+What is an event listener?
+
+>> an event listener is a method that links an event handler to a specific element, allowing a user interaction to enable functionality on the website.
+
+Why would we convert a NodeList into an Array?
+
+>> NodeLists have a limited # of Array methods available to them so we can unlock the full power of arrays when we convert NodeLists
+
+What is a component?
+
+>> Components are repeatable/toggleable parts of the UI such as carousels, newsfeed cards etc.
+
 
 ### Git Set up
 
